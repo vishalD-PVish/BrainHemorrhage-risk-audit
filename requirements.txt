@@ -1,7 +1,11 @@
 streamlit
-pandas
+pandas==2.2.2
 numpy
-joblib
-xgboost==1.7.6
-scikit-learn
+joblib==1.5.3
+xgboost==3.2.0
+scikit-learn==1.6.1
 statsmodels
+
+
+
+
